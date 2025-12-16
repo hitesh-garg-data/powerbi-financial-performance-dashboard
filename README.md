@@ -6,6 +6,11 @@ The focus is on identifying profitability challenges, cost inefficiencies, and s
 
 ---
 
+## Key Insights
+Same dataset used across Excel, SQL, and Power BI to demonstrate cross-tool consistency.
+
+---
+
 ## 📊 Key Metrics Analyzed
 - Total Revenue
 - Net Profit
