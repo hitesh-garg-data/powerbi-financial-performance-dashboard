@@ -17,6 +17,8 @@ This dashboard supports management in:
 
 It is intended for **diagnostic review and monitoring**, not execution or forecasting.
 
+Intended for finance, operations, and business stakeholders reviewing profitability health.
+
 ---
 
 ## 🚫 Scope & Limitations
