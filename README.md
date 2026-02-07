@@ -1,58 +1,65 @@
-# Financial Performance Dashboard (Power BI)
+# 💰 Financial Performance Dashboard (Power BI)
 
-## 📌 Project Overview
-This project analyzes a company's financial performance across products, countries, time periods, and customer segments using Power BI.  
-The focus is on identifying profitability challenges, cost inefficiencies, and strategic improvement opportunities.
+## 📌 Project Context
+This Power BI dashboard analyzes a company’s financial performance across products, countries, time periods, and customer segments.
+
+The objective is to **diagnose profitability challenges and cost structure risks** — not just report revenue — and support clearer, decision-oriented financial review.
+
+The same dataset was previously analyzed using **Excel and SQL** to ensure metric consistency and analytical validation across tools.
 
 ---
 
-## Key Insights
-Same dataset used across Excel, SQL, and Power BI to demonstrate cross-tool consistency.
+## 🎯 Decision Context
+This dashboard supports management in:
+- Identifying where strong revenue does **not** translate into profit  
+- Prioritizing cost-heavy segments, countries, and discount practices  
+- Monitoring profitability risk drivers over time  
+
+It is intended for **diagnostic review and monitoring**, not execution or forecasting.
+
+---
+
+## 🚫 Scope & Limitations
+- Based entirely on **historical financial data**
+- Does **not** perform forecasting, scenario modeling, or prescriptive strategy design
+- Insights highlight **risk areas and patterns**, not causal guarantees
 
 ---
 
 ## 📊 Key Metrics Analyzed
-- Total Revenue
-- Net Profit
-- Operating Expenses
-- Profit Margin %
-- Month-over-Month Growth %
-- Year-over-Year Growth %
+- Total Revenue  
+- Net Profit  
+- Operating Expenses  
+- Profit Margin (%)  
+- Month-over-Month Growth (%)  
+- Year-over-Year Growth (%)  
 
 ---
 
 ## 📈 Dashboard Highlights
-- Revenue and Net Profit trends over time
-- Product-level revenue and cost breakdown
-- Discount band impact on profit margins
-- Country-wise performance comparison
-- Identification of loss-making regions and segments
+- Revenue and Net Profit trends over time  
+- Product-level revenue and cost breakdown  
+- Discount band impact on profit margins  
+- Country-wise performance comparison  
+- Identification of loss-making regions and customer segments  
 
 ---
 
-## 🔍 Key Business Insights
-- **High Operating Expenses** significantly reduce net profit despite healthy gross profit.
-- **Medium and High discount bands** outperform low/no-discount strategies in profit margin.
-- **Strong revenue does not guarantee profitability** due to COGS and OpEx erosion.
-- **United States shows a revenue–profit paradox**, generating the highest revenue but negative net profit.
-- Certain customer segments (Enterprise & Small Business) also show negative profitability.
-
----
-
-## 🎯 Strategic Recommendations
-- Optimize high-cost operating expense categories.
-- Use controlled discounting as a volume-driven profit lever.
-- Improve procurement and operational efficiency.
-- Reassess pricing and cost-to-serve strategy in underperforming regions and segments.
+## 🔍 Analytical Findings
+- **High operating expenses** significantly suppress net profit despite healthy revenue
+- **Medium and High discount bands** outperform low/no-discount strategies on margin
+- **Revenue strength alone is misleading** when COGS and OpEx erosion are ignored
+- **United States exhibits a revenue–profit paradox**, leading revenue but generating losses
+- Enterprise and Small Business segments show profitability risk despite scale
 
 ---
 
 ## 🛠 Tools & Skills Used
-- Power BI Desktop
-- DAX (Calculated Measures & KPIs)
-- Financial Analysis
-- Business Insight Storytelling
-- Data Visualization & Dashboard Design
+- Power BI Desktop  
+- Power Query  
+- DAX (Measures & KPIs)  
+- Financial performance analysis  
+- Decision-focused dashboard storytelling  
 
 ---
 
@@ -63,4 +70,5 @@ Same dataset used across Excel, SQL, and Power BI to demonstrate cross-tool cons
 
 ---
 
-© 2025 Hitesh Garg — Portfolio Project
+⭐ **Created by Hitesh Garg**  
+Finance & Business Data Analyst
