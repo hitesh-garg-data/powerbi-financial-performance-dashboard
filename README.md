@@ -73,4 +73,4 @@ Intended for finance, operations, and business stakeholders reviewing profitabil
 ---
 
 ⭐ **Created by Hitesh Garg**  
-Finance & Business Data Analyst
+Data Analyst | SQL • Power BI • Excel • Python • Finance Analytics
