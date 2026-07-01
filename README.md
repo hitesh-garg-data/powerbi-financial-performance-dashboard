@@ -49,7 +49,7 @@ Intended for finance, operations, and business stakeholders reviewing profitabil
 
 ## 🔍 Analytical Findings
 - **High operating expenses** significantly suppress net profit despite healthy revenue
-- **Medium and High discount bands** outperform low/no-discount strategies on margin
+- **Higher discount bands** are associated with lower profit margins, indicating discount strategies should be reviewed.
 - **Revenue strength alone is misleading** when COGS and OpEx erosion are ignored
 - **United States exhibits a revenue–profit paradox**, leading revenue but generating losses
 - Enterprise and Small Business segments show profitability risk despite scale
